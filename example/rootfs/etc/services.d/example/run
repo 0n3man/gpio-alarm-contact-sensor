@@ -12,8 +12,8 @@ declare message
 ## Get the 'message' key from the user config options.
 message=$(bashio::config 'message')
 
-## Print the message the user supplied, defaults to "Hello World..."
-bashio::log.info "${message:="Hello World..."}"
+## Print the message the user supplied, defaults to "Hello User..."
+bashio::log.info "${message:="Hello User..."}"
 
 ## Run your program
 exec /usr/bin/my_program
