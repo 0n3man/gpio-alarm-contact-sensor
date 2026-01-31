@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "All done!" > /share/gpio_alarm_n2_addon_output.txt
+echo "App has completed!" > /share/gpio_alarm_n2_addon_output.txt
