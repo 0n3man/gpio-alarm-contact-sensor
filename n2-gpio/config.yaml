@@ -3,7 +3,7 @@ name: Example add-on
 version: "1.0.0"
 slug: n2-gpio
 description: odroid n2 gpio add-on
-url: "https://github.com/0n3man/gpio-alarm-contact-sensor/tree/main/example"
+url: "https://github.com/0n3man/gpio-alarm-contact-sensor/tree/main/n2-gpio"
 arch:
   - aarch64
 init: false
